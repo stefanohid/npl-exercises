@@ -1,0 +1,8 @@
+/home/stefa/npl-projects/pkcap/target/debug/deps/utf8parse-26766122121de462.d: /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
+
+/home/stefa/npl-projects/pkcap/target/debug/deps/libutf8parse-26766122121de462.rlib: /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
+
+/home/stefa/npl-projects/pkcap/target/debug/deps/libutf8parse-26766122121de462.rmeta: /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
+
+/home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs:
+/home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs:

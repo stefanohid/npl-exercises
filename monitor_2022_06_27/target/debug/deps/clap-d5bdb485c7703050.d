@@ -1,0 +1,7 @@
+/home/stefa/npl-projects/monitor_2022_06_27/target/debug/deps/clap-d5bdb485c7703050.d: /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/lib.rs /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/../examples/demo.rs /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/../examples/demo.md
+
+/home/stefa/npl-projects/monitor_2022_06_27/target/debug/deps/libclap-d5bdb485c7703050.rmeta: /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/lib.rs /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/../examples/demo.rs /home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/../examples/demo.md
+
+/home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/lib.rs:
+/home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/../examples/demo.rs:
+/home/stefa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.1/src/../examples/demo.md:

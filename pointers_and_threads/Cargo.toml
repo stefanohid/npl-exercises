@@ -1,0 +1,7 @@
+[package]
+name = "pointers_and_threads"
+version = "0.1.0"
+edition = "2024"
+default-run = "pointers_and_threads"
+
+[dependencies]

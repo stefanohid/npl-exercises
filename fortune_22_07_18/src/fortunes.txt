@@ -1,0 +1,100 @@
+Today is a good day to simplify something complicated.
+The bug you fear is smaller than the lesson it carries.
+Good logs are lanterns in the fog.
+One careful test can save an afternoon.
+Ask the question before optimizing the answer.
+Small steps still cross long bridges.
+Your future self appreciates clear names.
+The shortest path is often the one you can explain.
+Patience turns strange errors into useful maps.
+A tidy interface hides a thousand avoided mistakes.
+The packet you inspect teaches the network you use.
+Readable code is a quiet act of generosity.
+When in doubt, print the value and breathe.
+A good abstraction earns its place.
+The best fix is the one you can still trust tomorrow.
+Every protocol begins with an agreement.
+The compiler is strict because memory is slippery.
+Simple tools become powerful in steady hands.
+The first version teaches you what the second needs.
+Measure before you guess.
+A timeout is just uncertainty with a clock.
+The right buffer is a small room for arriving facts.
+Old assumptions make excellent suspects.
+One clear error message is worth ten vague comments.
+The network remembers every shortcut.
+A match expression can turn confusion into structure.
+The smallest repro has the loudest truth.
+Your code becomes wiser when your types become honest.
+Do not fear the borrow checker; negotiate with it.
+Every panic asks for a missing decision.
+If it compiles, thank the types, then test the behavior.
+The cleanest loop knows when to stop.
+Good defaults are friendly doors.
+Names are documentation that never goes stale.
+A packet is just a letter with a very strict envelope.
+The fastest way forward may be reading one more line.
+Shared state needs rules, not hope.
+Channels are conversations with ownership.
+The server listens before it speaks.
+The client asks before it knows.
+Trust the boundary between bytes and meaning.
+Serialization is a bridge between memory and messages.
+The value of a counter is the story it counted.
+Top results still depend on the key you chose.
+When two addresses swap places, decide if direction matters.
+A quiet terminal may still be waiting for input.
+Every socket has two sides to its story.
+The loopback address is a mirror, not a road.
+Broadcast speaks loudly but not always far.
+The best debug output says exactly what changed.
+A good enum gives names to possibilities.
+The right trait import opens the method you were missing.
+Parsing is where trust becomes verification.
+There is no shame in starting with one file.
+A reliable program handles silence as carefully as noise.
+The last byte matters only if you know how many arrived.
+A vector keeps order; a map keeps promises.
+Sort after counting, not before.
+The top five are only as honest as the data below them.
+Errors are branches you have not named yet.
+A good command line teaches by its help text.
+Flags should describe choices, not mysteries.
+The operating system is part of your program's environment.
+Localhost is a place, not the internet.
+A default port is a meeting point.
+Use randomness for fortune, not for control flow.
+The next packet may change the ranking.
+Your program is most alive while waiting.
+Precision beats cleverness in network code.
+A socket bound to zero lets the system choose.
+The sender address is evidence, not intention.
+The right filter saves your eyes from noise.
+Malformed packets are still lessons in format.
+A byte slice becomes useful when you know its shape.
+The parser knows only what the bytes prove.
+Keep the handler small and the meaning clear.
+A thread should own one clear responsibility.
+If two threads need order, give them a signal.
+Sleep is timing, not coordination.
+A channel can carry data or simply permission.
+The safest shared counter is the one only one thread owns.
+Your interface name is local knowledge.
+WSL gives you a virtual window to the network.
+A missing library is not a Rust problem, but Rust will tell you.
+Linkers complain when the system promise is absent.
+Install the development package when compiling native bindings.
+Permissions guard packet capture for good reasons.
+Root can open doors that normal users should not need daily.
+Capabilities grant power with a narrower key.
+A pcap file is traffic frozen in time.
+Live capture is traffic happening now.
+The same processor can serve file and interface with the right shape.
+Generic functions let different captures share one story.
+The best exercises reveal why the tool exists.
+Do not store what you can derive, unless deriving is costly.
+A clear key makes a clear map.
+When counts look wrong, inspect the key first.
+Every line of output should pay rent.
+Make the common case easy and the strange case visible.
+A program that waits well is already half a server.
